@@ -1,4 +1,11 @@
-# LearningGo => Using [gobyexample](https://gobyexample.com)
-Just a repo of learning Go
+# LearningGo
+Just a repo of learning Go:)
+
+
+## Resources Used 
+ [gobyexample](https://gobyexample.com)
+ [gowebexamples](https://gowebexamples.com/)
+ [hyperskill] (https://hyperskill.org)
+
 
 
